@@ -25,4 +25,22 @@ thead > tr, tr:nth-child(even) {
   background-color: #f2f2f2;
 }
 
+main {
+  width: 80%;
+  margin: 30px auto;
+  background-color: rgb(201, 201, 241);
+  border-radius: 25px;
+  display: flex;
+  flex-wrap: wrap;
+}
+main div {
+  display: inline-block;
+  width: 40%;
+  margin: 10px 30px;
+}
+
+#buttons {
+  margin-left: auto;
+}
+
 /*# sourceMappingURL=style.css.map */
